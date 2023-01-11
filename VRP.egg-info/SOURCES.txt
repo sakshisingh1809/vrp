@@ -1,0 +1,7 @@
+README.md
+setup.py
+VRP/__init__.py
+VRP.egg-info/PKG-INFO
+VRP.egg-info/SOURCES.txt
+VRP.egg-info/dependency_links.txt
+VRP.egg-info/top_level.txt
