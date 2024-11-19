@@ -2,7 +2,7 @@
 
 Repository with functions to do VRP and VRP-GA-ML operations.
 
-Developer: Sakshi Singh (sakshisingh1809@gmail.com)
+This repository is the part 1 for CVRP-GA. 
 
 ---
 
