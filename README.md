@@ -1,4 +1,4 @@
-# VRP
+# CVRP - Dataset generation and solution through CPLEX
 
 Repository with functions to do VRP and VRP-GA-ML operations.
 
